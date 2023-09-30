@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.nav-item{
+   
+    padding-right: 15px;
+}
+
+.carousel-item img{
+    height: 600px;
+    object-fit: cover;
+}
+
+
+.profileimage img{
+    height: 600px;
+    width: 600px;
+    border-radius: 100%;
+    object-fit: cover;
+    
+}
